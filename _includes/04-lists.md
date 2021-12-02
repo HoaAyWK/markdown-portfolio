@@ -1,1 +1,3 @@
-Replace this with a list of your favorite things.
+* Testing 1
+* Testing 2
+* Testing 3
